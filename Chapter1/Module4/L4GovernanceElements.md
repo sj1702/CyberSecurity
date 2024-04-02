@@ -1,0 +1,2 @@
+The Healthcare Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law in the United States that requires certain actions be taken to protect health information. Many organizations use published frameworks, or standards, to guide the organizational policies that support the compliance effort. Many departments or workgroups within the organization implement procedures that detail how they complete day-to-day tasks while remaining compliant. 
+

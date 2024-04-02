@@ -1,0 +1,5 @@
+The Risks of Change
+Narrator: You have to make sure you have a robust change management process and make sure you test in model environments before you make any change in a production or live environment. Even with extensive planning and testing, there are sometimes unintended consequences, so you must make sure there is a rollback plan. A rollback is restoring the system to the state it was in before the change was made.  To the point where we know it was working properly before we introduced changes into the environment. We need to make sure we review and test all the patches and can restore the previous configuration.  Maintaining a separate testing environment can be a logistical challenge for many organizations; as such, many do not have separate production and testing environments to properly vet all patches and system updates. In this case, they may rely on vendor third party testing to certify a new software release based on a generic set of data. The rollback plan is important in all environments, but it is absolutely critical in those who are unable to fully test a change.  
+
+
+

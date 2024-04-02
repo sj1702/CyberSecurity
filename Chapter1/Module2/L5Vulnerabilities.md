@@ -1,0 +1,6 @@
+Vulnerabilities
+A vulnerability is an inherent weakness or flaw in a system or component, which, if triggered or acted upon, could cause a risk event to occur. Consider the pickpocket scenario from below.
+
+An organization’s security team strives to decrease its vulnerability. To do so, they view their organization with the eyes of the threat actor, asking themselves, “Why would we be an attractive target?” The answers might provide steps to take that will discourage threat actors, cause them to look elsewhere or simply make it more difficult to launch an attack successfully. For example, to protect yourself from the pickpocket, you could carry your wallet in an inside pocket instead of the back pant pocket or behave alertly instead of ignoring your surroundings. Managing vulnerabilities starts with one simple step: Learn what they are.
+
+Narrator: Let's say the pick pocket chooses you as a target because they see that it will be easier or more profitable to steal from you. Maybe you are distracted, have jewelry that is easy to snatch, or appear weak and less likely to put up a struggle. In other words, you appear more vulnerable than the other tourists and the pick pocket feels that they can exploit that vulnerability or weakness. 

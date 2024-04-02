@@ -1,0 +1,1 @@
+Manny: There's so much to consider when trying to secure information. Who decides what needs to be protected and how we should go about it? Tasha: That kind of oversight can come in a number of different forms. Let's find out more. 
